@@ -6,6 +6,11 @@
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
-    }
+    },
+      "preloads": [
+        "./custom_config.py"
+      ]
+    
+  
   }
   
